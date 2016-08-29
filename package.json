@@ -1,0 +1,17 @@
+{
+  "name": "SHareIT",
+  "version": "1.0.0",
+  "description": "A place to drop your SHareIT",
+  "main": "app.js",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
